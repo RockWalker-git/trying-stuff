@@ -13,8 +13,6 @@ Or maybe you want to impress your friends with your mad coding skills? Look no f
 
 And if you're feeling really daring, try running our "self-destruct" script. Just kidding, don't actually run that one. Unless you want to see your computer explode into a million pieces (again, just kidding. Please don't sue us). 💥
 
-Sure, here's a README with some emoji and humor:
-
 # 💻 Code Generator
 
 Welcome to the 💻 Code Generator! This is a fun little program that uses the power of artificial intelligence to generate code based on your prompts. Simply enter a prompt in the input box, click the "Generate Code" button, and watch as the GPT-2 model goes to work and generates some code for you!
@@ -43,11 +41,7 @@ Plus, with the conversation history feature, you can look back on all the code y
 
 ## 🤔 What's Next?
 
-The 💻 Code Generator is a fun little project, but there's always room for improvement. Here are some ideas for future enhancements:
-
-- Add a feature to let users select the programming language they want to generate code in
-- Use a more advanced language model, like GPT-3 or T5, for even more powerful code generation
-- Allow users to save and load conversation history to and from different files for better organization
+The 💻 Code Generator is a fun little project, but there's always room for improvement.
 
 If you have any other ideas for how to improve the 💻 Code Generator, feel free to let us know! We're always looking for ways to make coding more fun and accessible for everyone. 😊
 
